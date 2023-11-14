@@ -26,17 +26,17 @@ export default function Header({}: Props) {
       >
         {/* Social Icons */}
         <SocialIcon
-          url="https://www.youtube.com/"
+          url="https://www.linkedin.com/in/ancelot-fayolle-a1a415196/"
           fgColor="gray"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://www.youtube.com/"
+          url="https://github.com/Ancelot911"
           fgColor="gray"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://www.youtube.com/"
+          url="https://twitter.com/Ancelot_Az"
           fgColor="gray"
           bgColor="transparent"
         />
